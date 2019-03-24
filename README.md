@@ -101,7 +101,6 @@ The projects implements three main components:
 
 3. Go to http://0.0.0.0:3001/
 
-Random changes
 
 ## Results
 
